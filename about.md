@@ -6,10 +6,10 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+### Research
 
 A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sandd@student.unimelb.edu.au](mailto:email@domain.com)
