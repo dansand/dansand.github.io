@@ -2,7 +2,7 @@
 ## PhD. candidate
 
 > [Download PDF](cv.pdf)  
-> [http://dansand.github.io](http://dansand.github.io)
+> [http://dansand.github.io](http://dansand.github.io/cv.pdf)
 
 ------
 
