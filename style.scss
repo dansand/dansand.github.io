@@ -18,18 +18,22 @@ html {
 }
 
 body {
-  background-image: url("williams.jpg");
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
+body {
+  background-image: url('{{ site.baseurl }}/images/williams.jpg');
+}
+
+
 
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
+  max-width: 940px;
+  padding: 0 0px;
   width: 100%;
 }
 
@@ -166,22 +170,22 @@ img {
   }
 }
 
-.site-avatar {
-  float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
+//.site-avatar {
+  //float: left;
+  //width: 70px;
+//  height: 70px;
+//  margin-right: 0px;
 
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
+//  @include mobile {
+//    float: none;
+//    display: block;
+//    margin: 0 auto;
+//  }
 
-  img {
-    border-radius: 5px;
-  }
-}
+//  img {
+//    border-radius: 5px;
+//  }
+//}
 
 .site-info {
   float: left;
@@ -227,7 +231,7 @@ nav {
   }
 
   a {
-    margin-left: 20px;
+    margin-left: 0px;
     color: $darkGray;
     text-align: right;
     font-weight: 300;
