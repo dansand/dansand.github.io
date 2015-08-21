@@ -18,16 +18,12 @@ html {
 }
 
 body {
-  background-image: url("williams.gif");
+  background-image: url("williams.jpg");
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
-
-header {
-  background-image: url('{{ site.baseurl }}/imgages/williams.jpg');
-}
 
 
 .container {
