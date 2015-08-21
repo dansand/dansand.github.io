@@ -18,23 +18,12 @@ html {
 }
 
 body {
+  background-image: url("williams.jpg");
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
-.background::after {
-  content: "";
-  background: url("williams.jpg");
-  opacity: 0.7;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  position: absolute;
-  z-index: -1;
-  background-size:cover;
-}
 
 .container {
   margin: 0 auto;
