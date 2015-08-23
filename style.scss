@@ -23,17 +23,10 @@ body {
   color: $darkGray;
 }
 
-body {
-  background-image: url('{{ site.baseurl }}/images/williams.jpg');
-}
-
-
-
-
 .container {
   margin: 0 auto;
-  max-width: 940px;
-  padding: 0 0px;
+  max-width: 740px;
+  padding: 0 10px;
   width: 100%;
 }
 
@@ -170,22 +163,22 @@ img {
   }
 }
 
-//.site-avatar {
-  //float: left;
-  //width: 70px;
-//  height: 70px;
-//  margin-right: 0px;
+.site-avatar {
+  float: left;
+  width: 70px;
+  height: 70px;
+  margin-right: 15px;
 
-//  @include mobile {
-//    float: none;
-//    display: block;
-//    margin: 0 auto;
-//  }
+  @include mobile {
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
 
-//  img {
-//    border-radius: 5px;
-//  }
-//}
+  img {
+    border-radius: 5px;
+  }
+}
 
 .site-info {
   float: left;
@@ -231,7 +224,7 @@ nav {
   }
 
   a {
-    margin-left: 0px;
+    margin-left: 20px;
     color: $darkGray;
     text-align: right;
     font-weight: 300;
@@ -294,9 +287,3 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-
-
-.foo {
-  text-align: center;
-  width: 200px;
-}
