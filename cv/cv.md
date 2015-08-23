@@ -54,7 +54,7 @@ PhD, (Honours), University of Melbourne
 
 ### Experience {#experience}
 
-IBM Reasearch (Mlebourne)
+IBM Research (Melbourne)
 : *Intern - Natural Resource Managment*
   __2014-2015__
 Geological / geophysical support to IBM Research team
