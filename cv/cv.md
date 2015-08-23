@@ -8,14 +8,14 @@
 
 ### Profile {#profile}
 
-I work with numerical models of the earth, including thermal convection in the mantle, plate motion and wave propagation. 
+I work with numerical models of the earth, including thermal convection in the mantle, plate motion and wave propagation.
 
 ------
 
 ### Skills {#skills}
 
 * Physical forward and inverse modelling
-  : I use a range of community-driven software to model physical phenomena such as waves, fluids and heat flow. 
+  : I use a range of community-driven software to model physical phenomena such as waves, fluids and heat flow.
 
 * Data science
   : Skills in data wrangling, time series analysis and spatial statistics / mapping.
@@ -25,7 +25,7 @@ I work with numerical models of the earth, including thermal convection in the m
 
 * Field work
   : Experience conducting managing long-term field work projects.
-  
+
 -------
 
 ### Education {#education}
@@ -46,13 +46,18 @@ PhD, (Honours), University of Melbourne
 
 ### Technical {#technical}
 
-1. Python 
+1. Python
 1. R
 1. Linux
 
 ------
 
 ### Experience {#experience}
+
+IBM Reasearch (Mlebourne)
+: *Intern - Natural Resource Managment*
+  __2014-2015__
+Geological / geophysical support to IBM Research team
 
 Australian Geophysical Observing System
 : *Field/Laboratory Assistant*
