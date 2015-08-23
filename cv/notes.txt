@@ -1,7 +1,7 @@
 Build resume using
 
 /Users/dansandiford/Documents/programming/tools/markdown-resume/bin/md2resume html cv.md ../
-/Users/dansandiford/Documents/programming/tools/markdown-resume/bin/md2resume/bin/md2resume pdf cv.md ../ 
+/Users/dansandiford/Documents/programming/tools/markdown-resume/bin/md2resume pdf cv.md ../ 
 
 
 cv should be available at:
