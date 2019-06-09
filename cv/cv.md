@@ -8,7 +8,9 @@
 
 ### Profile {#profile}
 
-I work with numerical models of the earth, including thermal convection in the mantle, plate motion and wave propagation.
+Postdoctoral research fellow at the Institue of Marine and Antarctic Studies, University of Tasmania. 
+
+PhD at the University of Mebourne, 2014 - 2018.
 
 ------
 
